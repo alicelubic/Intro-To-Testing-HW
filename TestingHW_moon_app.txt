@@ -1,0 +1,32 @@
+Phases of the Moon App
+
+
+1. The user can see the current moon phase and get information about it in the main activity.
+
+1a. On the main screen, the image of the moon's current phase is displayed
+1b. On the main screen, the current date is displayed
+1c. On the main screen, the name of the current moon phase is displayed
+1d. On the main screen, the percentage that the moon is illuminated is displayed
+1e. On the main screen, the distance from Earth in kilometers is displayed
+1f. On the main screen, the age of the moon is displayed
+1g. On the main screen, the times it rises and sets are displayed
+1h.On the main screen, the zodiac sign associated with the current moon phase is displayed
+
+
+2. The user can see the moon phases of various dates.
+
+2a. As a user, by swiping my finger to the left on the image of the moon, I can swipe through all the upcoming moon phases, displayed along with their corresponding dates
+2b. As a user, by swiping my finger to the right on the image of the moon, I can see the moon phase progression moving backward in time, along with their corresponding dates
+2c. As a user, upon selecting the "Start Rotating" feature from the "More" menu, I can see an animation of the moon going through all of its cycles along with the associated information listed in test case 1.
+2d. As a user, upon selecting the calendar icon, I can select any date, which will then display the moon phase image and corresponding information for that date
+2e. As a user, upon selecting the "Next Full Moon" feature from the "More" menu, I can see the moon phase image, date, and corresponding information of the next upcoming full moon
+2f. As a user, upon selecting the "Next New Moon" feature from the "More" menu, I can see the moon phase image, date, and corresponding information of the next new moon.
+2g. As a user, upon selecting the "Monthly" feature from the "More" menu, I can see a calendar with each day showing a small image of the moon phase for on that date, along with its zodiac sign and when it is FULL or NEW
+
+
+3. The user can access information about the phases of the moon outside of the app.
+
+3a. As a user, I can use the "Share" feature to send moon phase data from the whichever phase/date is currently displayed to other users via Text Message, Bluetooth, Gmail, etc.
+3b. As a user, I can use the "Share" feature to post moon phase data from the whichever phase/date is currently displayed to Social Media apps currently insalled on my device, including Twitter, Instagram, Facebook, Tumblr, Snapchat, etc.
+3c. As a user, I can set my phone background to an animation of the current moon phase with the stars slightly moving in the background. I can opt to display the current phase name as well as adjust the size of the moon, and its position on the screen.
+3d-f.As a user,    I could try to break down those first two some more to fill out all 6 conditionals but that's basically all the app can do as far as exporting information is concerned...
