@@ -3,14 +3,14 @@ Phases of the Moon App
 
 1. The user can see the current moon phase and get information about it in the main activity.
 
-1a. On the main screen, the image of the moon's current phase is displayed
-1b. On the main screen, the current date is displayed
-1c. On the main screen, the name of the current moon phase is displayed
-1d. On the main screen, the percentage that the moon is illuminated is displayed
-1e. On the main screen, the distance from Earth in kilometers is displayed
-1f. On the main screen, the age of the moon is displayed
-1g. On the main screen, the times it rises and sets are displayed
-1h.On the main screen, the zodiac sign associated with the current moon phase is displayed
+1a. As a user, I can see the image of the moon's current phase
+1b. As a user, I can see the current date
+1c. As a user, I can see the name of the current moon phase
+1d. As a user, I can see the percentage that the moon is illuminated
+1e. As a user, I can see the distance from Earth in kilometers
+1f. As a user, I can see the age of the current moon
+1g. As a user, I can see the times it rises and sets
+1h. As a user, I can see the zodiac sign associated with the current moon phase
 
 
 2. The user can see the moon phases of various dates.
